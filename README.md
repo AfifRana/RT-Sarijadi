@@ -1,7 +1,7 @@
 # RT-Sarijadi
 
 ## Decription
-Aplikasi sistem informasi untuk Ketua RT(RukunBua Tetangga).
+Aplikasi sistem informasi untuk Ketua RT(Rukun Tetangga).
 
 ## Fitur
 Fitur yang tersedia pada aplikasi ini adalah :
