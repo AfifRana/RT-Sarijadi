@@ -1,6 +1,6 @@
 # RT-Sarijadi
 
-## Decription
+## Description
 Aplikasi sistem informasi untuk Ketua RT(Rukun Tetangga).
 
 ## Fitur
